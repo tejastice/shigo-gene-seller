@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0x3eDc2579f668ba936471224388BEdba291dA94B0",
+  "SCAN_LINK": "https://etherscan.io/token/0x3eDc2579f668ba936471224388BEdba291dA94B0",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "NFT Marketing Orchestra",
+  "SYMBOL": "NMO",
+  "MAX_SUPPLY": 9999,
+  "WEI_COST": 900000000000000000,
+  "DISPLAY_COST": 0.9,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/account?tab=collected",
+  "SHOW_BACKGROUND": true,
+  "SINGLE_MINT_MODE": false  
+}
